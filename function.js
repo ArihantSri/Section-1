@@ -4,7 +4,7 @@ function addNums(a, b, c){
     console.log(d);
 }
 addNums(45, 2343, 45544);
-// console.log(d);
+
 
 const fact = function(n){
       let f = 1;
